@@ -44,5 +44,6 @@ A blogpost will follow up the next few days, describing the technique behind the
 
 
 ## References
+* Brought to you by [@testert01](https://twitter.com/testert01)
 * [HandleKatz + Disclaimer](https://github.com/codewhitesec/HandleKatz) Implementation by [@thefLinkk](https://twitter.com/thefLinkk) and disclaimer by [@codewhitesec](https://twitter.com/codewhitesec)
 * [WMI Get Service POC](https://github.com/thefLink/C-To-Shellcode-Examples/tree/master/WMI_get_pid_service_evt) by [@thefLinkk](https://twitter.com/thefLinkk)
